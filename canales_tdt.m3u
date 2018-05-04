@@ -1,0 +1,153 @@
+#EXTM3U
+##################
+#### GENERALES ###
+##################
+#EXTINF:0,La 1
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
+#EXTINF:0,La 2
+http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8
+#EXTINF:0,Antena 3
+https://atresplayerp-i.akamaized.net/antena3mpp/master.m3u8
+#EXTINF:0,Cuatro
+http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/stream1/streamPlaylist.m3u8
+#EXTINF:0,Telecinco HD
+http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/stream1/streamPlaylist.m3u8
+#EXTINF:0,La Sexta
+https://atresplayerp-i.akamaized.net/lasextampp/master.m3u8
+#EXTINF:0, DMAX España
+http://xxedge166.livesports.pw/live/verdmax4c05ab947ed6eac4e205909/chunklist.m3u8
+#EXTINF:0,Neox
+https://atresplayerp-i.akamaized.net/geoneoxmpp/bitrate_4.m3u8
+#EXTINF:0,Mega
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
+#EXTINF:0,Be Mad TV
+https://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_1.m3u8
+#EXTINF:0,ETBSat
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+#EXTINF:0,A3Series
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:0, Atres Series
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-p.m3u8
+#EXTINF:0,Nova
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
+#EXTINF:0, Divinity
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8
+#EXTINF:0,COSMO HD
+http://185.231.160.49/602/1/index.m3u8
+################
+#### DE PAGO ###
+################
+#EXTINF:0,MOVISTAR Series Xtra
+http://185.231.160.49/600/1/index.m3u8
+#EXTINF:0,COMEDY HD
+http://185.231.160.49/604/1/index.m3u8
+#EXTINF:0,COMEDY CENTRAL HD
+http://185.231.160.49/605/1/index.m3u8
+#EXTINF:0,Bein sport
+http://185.231.160.49/607/1/index.m3u8
+#EXTINF:0,HOLLYWOOD HD
+http://185.231.160.49/610/1/index.m3u8
+#EXTINF:0,HOLLYWOOD HD
+http://185.231.160.49/611/1/index.m3u8
+#EXTINF:0,AXN HD
+http://185.231.160.49/612/1/index.m3u8
+#EXTINF:0,MOVISTAR Comedia
+http://185.231.160.49/613/1/index.m3u8
+#EXTINF:0,Moto GP
+http://185.231.160.49/652/1/index.m3u8
+#EXTINF:0,Formula 1
+http://185.231.160.49/651/1/index.m3u8
+#EXTINF:0,amc
+http://185.231.160.49/653/1/index.m3u8
+#EXTINF:0,FOX LIFE
+http://185.231.160.49/599/1/index.m3u8
+#EXTINF:0,FOX
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w1691605234.m3u8
+#EXTINF:0, National Geographic España
+http://xxedge163.livesports.pw/live/vernatgeo23aa76d3cff3572e/chunklist.m3u8
+#EXTINF:0, Movistar Comedia
+http://playlist.onlybest.tv/en/channel/f772b8505cfea04b38985616da5f973f/606/index.m3u8
+#EXTINF:0, NatGeo Wild
+http://xxedge163.livesports.pw/live/vergeowildd88911c6f93d5d846a09/chunklist.m3u8
+
+#EXTINF:0,TNT
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
+#EXTINF:0,TNT Music (Opt-1)
+http://cdn-g.bonus-tv.ru:80/tntmusic/playlist.m3u8
+#EXTINF:0,MOVISTAR ACCION
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/605/index.m3u8
+#EXTINF:0,MOVISTAR ACCION HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/576/index.m3u8
+#EXTINF:0,MOVISTAR COMEDIA
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/606/index.m3u8
+#EXTINF:0,MOVISTAR COMEDIA HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/580/index.m3u8
+#EXTINF:0,MOVISTAR DCINE
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/607/index.m3u8
+#EXTINF:0,M+ Series Xtra HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8
+#EXTINF:0, M+ Accion HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/576/index.m3u8
+#EXTINF:0, M+ Comedia
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/606/index.m3u8
+#EXTINF:0, M+ DCine
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/607/index.m3u8
+#EXTINF:0, M+ Xtra
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8
+#EXTINF:0,FOX Life Spain
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/567/index.m3u8
+#EXTINF:0,FOX Spain
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/608/index.m3u8
+#EXTINF:0,Cosmo Spain
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/570/index.m3u8
+#EXTINF:0,Hollywood HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/577/index.m3u8
+#EXTINF:0,AXN White Spain
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/609/index.m3u8
+################
+### DEPORTES ###
+################
+#EXTINF:0,Teledeporte
+http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/master.m3u8
+#EXTINF:0,laligatv
+http://185.231.160.49/614/1/index.m3u8
+#EXTINF:0,laligatv
+http://185.231.160.49/614/1/index.m3u8
+#EXTINF:0,beIN LaLiga opción 1
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/574/index.m3u8
+#EXTINF:0,Bein LaLiga opción 2
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/574/index.m3u8
+#EXTINF:0,beIN LaLiga opción 4
+http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/574/index.m3u8
+#EXTINF:0,LaLiga TV opción 1
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/581/index.m3u8
+#EXTINF:0,Movistar Fútbol
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/575/index.m3u8
+#EXTINF:0,Real Madrid TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
+#EXTINF:0,Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:0,Mundo Auto TV
+https://593b04c4c5670.streamlock.net/8702/8702/chunklist.m3u8
+#EXTINF:0,Golf
+http://185.231.160.49/601/1/index.m3u8
+#EXTINF:0,Movistar F1 opción 1
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/612/index.m3u8
+#EXTINF:0,Movistar F1 opción 2
+http://163.172.202.69:4022/formula1hd
+#EXTINF:0,Movistar F1 opción 3
+http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/612/index.m3u8
+#EXTINF:0,Movistar MotoGP Opción 1
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/613/index.m3u8
+#EXTINF:0,Movistar MotoGP Opción 2
+http://163.172.202.69:4022/motogphd
+#EXTINF:0,Bein Sports Ñ Latino
+http://192.99.39.218:25461/live/arodriguez/arodriguez/5768.ts
+#EXTINF:0,beIN Sports Opción 1
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/566/index.m3u8
+#EXTINF:0,Bein Sports Opción 2
+http://playlist.onlybest.tv/en/channel/2874e3a9397ce975e8463c76533bcb1e/566/index.m3u8
+#EXTINF:0,beIN Sports Opción 4
+http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/566/index.m3u8
+#EXTINF:0, 8 TV
+http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1365534365.m3u8
